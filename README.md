@@ -158,7 +158,7 @@ So in the early 2000s, she made that dream a reality by setting up her first sal
 </html>
 ~~~
 ## Output:
-![map png](https://github.com/Bhuvanesh-Suresh/Ex-04-webTech_imagemap/assets/145742661/4d7fde53-3b41-45f5-9049-f92db29cd360)
+![map png](https://github.com/Bhuvanesh-Suresh/Ex-04-webTech_imagemap/assets/145742661/1809011c-f415-4492-b7a4-9d71648c3f0d)
 ![home](https://github.com/Bhuvanesh-Suresh/Ex-04-webTech_imagemap/assets/145742661/50a373bd-fee2-4124-b25e-d2c287765fad)
 ![hotel](https://github.com/Bhuvanesh-Suresh/Ex-04-webTech_imagemap/assets/145742661/d0843b4b-0c19-4cdd-bbd2-8a9dd7d18962)
 ![clothes_shop](https://github.com/Bhuvanesh-Suresh/Ex-04-webTech_imagemap/assets/145742661/bad93ad3-0d1a-4221-adc7-af98046c6580)
