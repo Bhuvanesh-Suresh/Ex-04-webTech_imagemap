@@ -158,11 +158,17 @@ So in the early 2000s, she made that dream a reality by setting up her first sal
 </html>
 ~~~
 ## Output:
+### map.html
 ![map png](https://github.com/Bhuvanesh-Suresh/Ex-04-webTech_imagemap/assets/145742661/1809011c-f415-4492-b7a4-9d71648c3f0d)
+### home.html
 ![home](https://github.com/Bhuvanesh-Suresh/Ex-04-webTech_imagemap/assets/145742661/50a373bd-fee2-4124-b25e-d2c287765fad)
+### hotel.html
 ![hotel](https://github.com/Bhuvanesh-Suresh/Ex-04-webTech_imagemap/assets/145742661/d0843b4b-0c19-4cdd-bbd2-8a9dd7d18962)
+### clothes_shop.html
 ![clothes_shop](https://github.com/Bhuvanesh-Suresh/Ex-04-webTech_imagemap/assets/145742661/bad93ad3-0d1a-4221-adc7-af98046c6580)
+### salon.html
 ![salon](https://github.com/Bhuvanesh-Suresh/Ex-04-webTech_imagemap/assets/145742661/54d20947-bdbc-436f-9ff4-5260ea048630)
+### temple.html
 ![temple](https://github.com/Bhuvanesh-Suresh/Ex-04-webTech_imagemap/assets/145742661/892b16ee-3ed7-48ed-8316-f19d4ad680a0)
 
 
