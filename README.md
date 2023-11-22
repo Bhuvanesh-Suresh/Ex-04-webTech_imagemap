@@ -1,6 +1,6 @@
 # Ex-06 Places Around Me
-## Name: P.Loknaath
-## Reference Number: 23004546
+## Name: S.R.Bhuvanesh
+## Reference Number: 23013380
 ## Aim:
 To develop a website to display details about the places around my house.
 
@@ -21,27 +21,27 @@ Write HTML programs for all the regions identified.
 ### map.html
 ~~~
 <html>
-    <head>
-        <title>My City</title>
-    </head>
-    <body>
-        <h1 align="center">
-            <font color="red"><b>Chennai</b></font>
-        </h1>
-        <h3 align="center">
-            <font color="blue"><b>P Loknaath (23004546)</b></font>
-        </h3>
-        <center>
-            <img src="map.png" usemap="#MyCity" height="610" width="1450">
-            <map name="#MyCity">
-                <area shape="rect" coords="700,250,850,400" href="home.html" title="My Home Town">
-                <area shape="circle" coords="570,230,50" href="school.html" title="Narayana CBSE School">
-                <area shape="circle" coords="680,400,80" href="hall.html" title="Soundrapandian Party Hall">
-                <area shape="circle" coords="1260,540,65" href="gym.html" title="Shredded Gym Society">
-                <area shape="circle" coords="970,160,1100,220" href="temple.html" title="Varahi Amman Temple">
-            </map>
-        </center>
-    </body>
+<head>
+<title>My City</title>
+</head>
+<body>
+<h1 align="center">
+<font color="red"><b>Kanyakumari</b></font>
+</h1>
+<h3 align="center">
+<font color="blue"><b>Bhuvaneh S R(23013380)</b></font>
+</h3>
+<center>
+<img src="map.png" usemap="#MyCity" height="610" width="1450">
+<map name="MyCity">
+<area shape="rect" coords="700,250,850,400" href="home.html" title="My Home Town">
+<area shape="circle" coords="570,230,50" href="hotel.html" title="KFC">
+<area shape="circle" coords="680,400,80" href="clothes_shop.html" title="Pothys retail shop">
+<area shape="circle" coords="1260,540,65" href="salon.html" title="Naturals salon">
+<area shape="rect" coords="970,160,1100,220" href="temple.html" title="Nagaraja Temple">
+</map>
+</center>
+</body>
 </html>
 ~~~
 ### home.html
@@ -50,45 +50,23 @@ Write HTML programs for all the regions identified.
     <head>
         <title>My Home Town</title>
     </head>
-    <body bgcolor="cyan">
+    <body bgcolor="orange">
         <h1 align="center">
-            <font color="red"><b>Chennai</b></font>
+            <font color="red"><b>Kanyakumari</b></font>
         </h1>
         <h3 align="center">
-            <font color="blue"><b>Madhanandhapuram</b></font>
+            <font color="green"><b>Nagercoil</b></font>
         </h3>
         <hr size="3" color="red">
         <p alig="justify">
             <font face="Georgia" size="5">
-                Madanandhapuram is a small locality in Kunnattur Taluk in the Chennai district of Tamil Nadu. Pallavaram railway station and Chromepet railway station are the nearby railway stations to Madanandapuram. Madhanandapuram bus stop, Cycle Stand bus stop, Moulivakkam bus stop, and St Mary's School bus stop are the nearby bus stops in this locality. Chennai Bypass road, Madha Nagar Main road, Mugalivakkam Main road, Wireless Station road, Ramasamy Nagar Main road, and Kundrathur Main road are well-connected roads and also the highways are well-developed. Saveetha School Of Engineering, The Psbb Millennium School, and Sivanthi Matric School are the nearby schools and colleges situated in Madanandapuram. Annai Hospital, Yasotha hypnosis academy, and Hriday Hospital are the nearby hospital's medical centers situated in this locality. 
+                Nagercoil is a centre for a range of economic activities in the small but densely-populated Kanyakumari District. Economic activities in around the city include tourism, wind energy, IT services, marine fish production and exports, rubber and cloves plantations, agro-crops, floral production, manufacture of fishnets, rubber products among other activities.
             </font>
         </p>
     </body>
-</html>
+</html> 
 ~~~
-### school.html
-~~~
-<html>
-    <head>
-        <title>My Home Town</title>
-    </head>
-    <body bgcolor="yellow">
-        <h1 align="center">
-            <font color="black"><b>Madhanandhapuram</b></font>
-        </h1>
-        <h3 align="center">
-            <font color="brown"><b>Narayana CBSE School</b></font>
-        </h3>
-        <hr size="3" color="red">
-        <p alig="justify">
-            <font face="Georgia" size="5">
-                Narayana Group of Schools Madhanandapuram is an all-inclusive educational institution that provides a complete learning experience for its students. From early childhood education to senior secondary, we offer a wide range of programmes and services that help students develop their academic, social, and emotional skills.
-            </font>
-        </p>
-    </body>
-</html>
-~~~
-### gym.html
+### hotel.html
 ~~~
 <html>
     <head>
@@ -96,42 +74,62 @@ Write HTML programs for all the regions identified.
     </head>
     <body bgcolor="green">
         <h1 align="center">
-            <font color="orange"><b>Madhanandhapuram</b></font>
+            <font color="orange"><b>Nagercoil</b></font>
         </h1>
         <h3 align="center">
-            <font color="black"><b>Shredded Gym Society</b></font>
+            <font color="black"><b>KFC</b></font>
         </h3>
         <hr size="3" color="red">
         <p alig="justify">
             <font face="Georgia" size="5">
-                Shredded Society Fitness Studio in Chennai is one of the leading businesses in the Dance Classes. Also known for Gyms, Dance Classes, Yoga
-Classes, Women Gyms, Fitness Centres, Weight Loss Centres, Unisex Gyms, Men Gyms and much more. Find Address, Contact Number, Reviews &
-Ratings, Photos, Maps of Shredded Society Fitness Studio, Chennai.
+                KFC, a subsidiary of Yum! Brands, Inc. (NYSE: YUM.), is a global quick service restaurant brand with a rich, decades-long history of success and innovation. It all started with one cook, Colonel Harland Sanders, who created a finger lickin' good recipe more than 75 years ago, a list of secret herbs and spices scratched out on the back of the door to his kitchen. 
             </font>
         </p>
     </body>
 </html>
 ~~~
-### hall.html
+### clothes_shop.html
 ~~~
 <html>
     <head>
         <title>My Home Town</title>
     </head>
-    <body bgcolor="grey">
+    <body bgcolor="green">
         <h1 align="center">
-            <font color="blue"><b>Madhanandhapuram</b></font>
+            <font color="orange"><b>Nagercoil</b></font>
         </h1>
         <h3 align="center">
-            <font color="magenta"><b>Soundrapandian Party Hall</b></font>
+            <font color="black"><b>Pothys Retail Shop</b></font>
         </h3>
         <hr size="3" color="red">
         <p alig="justify">
             <font face="Georgia" size="5">
-                Soundrapandian Kalyana Mandapam is a wedding venue in Chennai. They make certain that all of their customers are satisfied with the services provided at this location. They offer a variety
-of wedding packages that include a variety of services, such as multi-event space, guest accommodation, prefabricated decor, multi-cuisine in-house catering, and so on, all of which can be
-customised to fit your budget and needs. It is an ideal location for your grand and regal event. Whether you're planning an intimate reception or a large Indian wedding reception, their team
-of professionals is ready to make your day unforgettable.
+                Pothys is a chain of textile showrooms in South India. Originally they exclusively sold silk sarees, but today all types of garments are sold. The flagship store in Chennai is called Pothys' Palace.
+                Pothys (stylised as POTHYS) was established in 1923 by K. V. Pothy Moopanar under the name Pothy Moopanar to sell cotton sarees and dhotis woven on his own loom. K.V. Pothy Moopanar born in Srivilliputhur belongs to a heritage family of Weavers.
+            </font>
+        </p>
+    </body>
+</html>
+~~~
+### salon.html
+~~~
+<html>
+    <head>
+        <title>My Home Town</title>
+    </head>
+    <body bgcolor="yellow">
+        <h1 align="center">
+            <font color="black"><b>Nagercoil</b></font>
+        </h1>
+        <h3 align="center">
+            <font color="brown"><b>Naturals Salon</b></font>
+        </h3>
+        <hr size="3" color="red">
+        <p alig="justify">
+            <font face="Georgia" size="5">
+                Naturals was conceived with the idea of the modern Indian. Founded by K. Veena, whose knowledge of the international beauty industry pioneered a new era in the hair and beauty care industry in India, Naturals has made a path-breaking change in the way the beauty industry has been perceived. 
+
+So in the early 2000s, she made that dream a reality by setting up her first salon in Chennai. It took her only a while to understand the market potential and the ever-increasing demand for professional grooming.
             </font>
         </p>
     </body>
@@ -143,29 +141,29 @@ of professionals is ready to make your day unforgettable.
     <head>
         <title>My Home Town</title>
     </head>
-    <body bgcolor="orange">
+    <body bgcolor="grey">
         <h1 align="center">
-            <font color="red"><b>Madhanandhapuram</b></font>
+            <font color="blue"><b>Nagercoil</b></font>
         </h1>
         <h3 align="center">
-            <font color="green"><b>Varahi Amman Temple</b></font>
+            <font color="black"><b>Nagaraja Temple</b></font>
         </h3>
         <hr size="3" color="red">
         <p alig="justify">
             <font face="Georgia" size="5">
-                Varahi Amman kovil is a hindu temple located in Chennai, Tamil Nadu. The average rating of this place is 4.50 out of 5 stars based on 69 reviews. The street address of this place is PHASE-1, 5th St, nearby Jaimaruthi kalyana mandapam, Annai velankanni nagar, Madhanandapuram, Chennai, Tamil Nadu 600125, India. It is about 0.86 kilometers away from the Ramapuram railway station.
+                Nagaraja Temple is an early large temple found in the city of Nagercoil (Nagarkōyil) near the southern tip of Tamil Nadu, India. Its dating is uncertain but likely pre-12th-century. The main sanctum is dedicated to the Nagaraja – the king of serpents. Padmanabham (1985), Heritage Of The Tamils Temple Arts, Editors: SV Subramanian and G Rajendran, International Institute of Tamil Studies, Since the 17th-century, new Hindu shrines have been added to the temple complex attracting devotees of Krishna (Vishnu), as well as Shaiva and Shakti Hindus.[1] The original iconography of the Tirthankaras and Padmavati Devi have and continue to remain a part of the sacred pantheon close to the temple's main sanctum.
             </font>
         </p>
     </body>
 </html>
 ~~~
 ## Output:
-![map](https://github.com/Loknaath-sec/Ex-04-webTech_imagemap/assets/145742558/9f9165b5-7919-4255-95cd-244da01e00cf)
-![home](https://github.com/Loknaath-sec/Ex-04-webTech_imagemap/assets/145742558/ec46d4ad-de66-4559-9b1d-ce9422778991)
-![school](https://github.com/Loknaath-sec/Ex-04-webTech_imagemap/assets/145742558/040c6c6f-b181-40a9-9001-fa3e2e050355)
-![gym](https://github.com/Loknaath-sec/Ex-04-webTech_imagemap/assets/145742558/9d5a91ec-c40a-4242-b9a8-c4dbe2a7dee1)
-![hall](https://github.com/Loknaath-sec/Ex-04-webTech_imagemap/assets/145742558/9cdc022f-156b-4f5f-8f39-c94b3314f3cf)
-![temple](https://github.com/Loknaath-sec/Ex-04-webTech_imagemap/assets/145742558/e97401bd-d774-419a-8f79-4cb1fbd42777)
+![map png](https://github.com/Bhuvanesh-Suresh/Ex-04-webTech_imagemap/assets/145742661/4d7fde53-3b41-45f5-9049-f92db29cd360)
+![home](https://github.com/Bhuvanesh-Suresh/Ex-04-webTech_imagemap/assets/145742661/50a373bd-fee2-4124-b25e-d2c287765fad)
+![hotel](https://github.com/Bhuvanesh-Suresh/Ex-04-webTech_imagemap/assets/145742661/d0843b4b-0c19-4cdd-bbd2-8a9dd7d18962)
+![clothes_shop](https://github.com/Bhuvanesh-Suresh/Ex-04-webTech_imagemap/assets/145742661/bad93ad3-0d1a-4221-adc7-af98046c6580)
+![salon](https://github.com/Bhuvanesh-Suresh/Ex-04-webTech_imagemap/assets/145742661/54d20947-bdbc-436f-9ff4-5260ea048630)
+![temple](https://github.com/Bhuvanesh-Suresh/Ex-04-webTech_imagemap/assets/145742661/892b16ee-3ed7-48ed-8316-f19d4ad680a0)
 
 
 ## Result:
